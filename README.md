@@ -18,6 +18,7 @@
  *
  */
 
+
 function scoreChecker(score) {
   let result;
 
